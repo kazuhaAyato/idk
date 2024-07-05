@@ -9,4 +9,5 @@ x = np.linspace(0, 10, 100)
 y = np.cos(x)
 plt.plot(x, y)
 #plot graph of tan(x) idk
+# i think it is incredible
 plt.show()
